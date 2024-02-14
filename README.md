@@ -21,9 +21,13 @@ Allow User-select es una extesnsión de Chrome, la cual sirve para desactivar us
 A continuación, se detallan los pasos para la instalación y ejecución del proyecto:
 
 1. Clonar este repositorio: `git clone https://github.com/fabianbm15/Allow-User-Select-Chrome-Extension.git`
+
 2. Abrir el navegador Chrome
+
 3. Abrir panel de extensiones 
+
 4. Activar modo desarrollador
+
 5. Cargar extensión desempaquetada
 
 ## Contribución
